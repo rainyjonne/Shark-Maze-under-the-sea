@@ -1,5 +1,8 @@
 # Shark-Maze-under-the-sea
 ## [Demo Video](https://youtu.be/ZfoNAi4lDgc)
+![image](https://user-images.githubusercontent.com/40749393/150723238-892255ed-714e-4861-9a70-12627f9a9716.png)
+![image](https://user-images.githubusercontent.com/40749393/150723248-634e1ed9-bd56-4f39-872c-aebfc2bf3e36.png)
+
 ## Background
 ### Chinese Version
 一隻小鯊魚被困在深海的玻璃魚缸迷宮中，幫助小鯊魚從深海岩石層中找到重返大海的方式吧！注意不要吃到汙染物囉！
